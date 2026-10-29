@@ -1,155 +1,52 @@
-Good catch — this is **important for recruiters**. If screenshots are missing, your project looks incomplete.
+# Business Date Analysis Using SQL
 
-I’ve fixed your README properly below — **clean learner tone + correct image display + SEO intact**.
+## Business Scenario
 
----
+A business needs to analyse transactions over dates and reporting periods.
 
-# SQL Date Analysis for Business Reporting | Delivery Performance, Quarterly Trends & YoY Growth
+## Analysis Objective
 
----
+Apply SQL date functions and date filters to business analysis.
 
-## 🏢 Business Problem I Tried to Solve
+## SQL Concepts Practiced
 
-In this project, I am trying to understand how companies use **date-based analysis in real business reporting**.
+- Date filtering
+- Date functions
+- Date ranges
+- Period-based aggregation
+- Time-based analysis
 
-I worked on a scenario where a business wants to track:
+## Query and Setup
 
-* Delivery performance
-* Revenue trends over time
-* Year-over-Year (YoY) growth
+- [database_table_setup.sql](database_table_setup.sql) — database and table setup.
+- [question_solution_date_analysis.sql](question_solution_date_analysis.sql) — SQL solution.
 
-As a learner, I wanted to move beyond basic SQL and understand how **time plays a role in business decisions**.
+## Execution Evidence
 
----
+### Output Result
 
-## 📊 Dataset I Created for Practice
+![Output Result](output_result.png)
 
-To simulate a real-world use case, I created an `orders` table with:
+### Query Execution
 
-* `order_date` → when the order was placed
-* `ship_date` → when the order was delivered
-* `ship_mode` → delivery type
-* `revenue` → sales value
+![Query Execution](query_execution.png)
 
----
+## Business Insight
 
-## 📸 Query Execution Preview
+Correct date boundaries and date filtering are essential for reliable daily, monthly, and yearly reporting.
 
-This screenshot shows how I executed the SQL queries in SSMS.
+## Project Files
 
-![SQL Query Execution Screenshot](day70_query_execution.png)
+- [database_table_setup.sql](database_table_setup.sql)
+- [output_result.png](output_result.png)
+- [query_execution.png](query_execution.png)
+- [question_solution_date_analysis.sql](question_solution_date_analysis.sql)
 
----
+## Tools Used
 
-## 🎯 What I Tried to Learn
-
-In this project, I focused on solving practical business questions:
-
-* Measuring delivery efficiency
-* Analyzing quarterly revenue trends
-* Comparing Year-over-Year performance
-* Filtering recent data
+- Microsoft SQL Server
+- SQL Server Management Studio (SSMS)
 
 ---
 
-## 🔍 Step-by-Step What I Did
-
-1. Calculated delivery time using `DATEDIFF`
-2. Grouped revenue quarterly using `DATEPART`
-3. Compared yearly sales using `LAG()`
-4. Filtered last 30 days using `DATEADD`
-
----
-
-## 🧠 SQL Concepts I Practiced
-
-* `DATEDIFF`
-* `DATEPART`
-* `DATEADD`
-* `LAG()`
-* `CTE`
-
----
-
-## ⚙️ My Understanding of the Logic
-
-While doing this project, I realized:
-
-* Date functions directly support business decisions
-* Delivery performance is measured using time difference
-* Revenue is always analyzed in time groups
-* YoY growth requires comparison with previous data
-
----
-
-## 📊 Output Result
-
-This screenshot shows the actual output generated after running the queries.
-
-![SQL Output Result Screenshot](day70_output_result.png)
-
----
-
-## 📈 What I Observed
-
-* Delivery time varies based on ship mode
-* Revenue changes across quarters
-* YoY comparison shows growth patterns clearly
-
----
-
-## 🏢 How This Is Used in Real Companies
-
-From this project, I understood:
-
-* Operations teams track delivery performance regularly
-* Management reviews quarterly revenue reports
-* YoY growth is used for performance tracking
-
----
-
-## 🛠️ Skills I Am Building
-
-* Writing SQL for business problems
-* Understanding time-based analysis
-* Using window functions for comparisons
-* Thinking like an analyst
-
----
-
-## 💻 Tools I Used
-
-* SQL Server (SSMS)
-* T-SQL
-
----
-
-## 📂 Project Files
-
-* `day70_database_table_setup.sql`
-* `day70_question_solution_date_analysis.sql`
-* `day70_query_execution.png`
-* `day70_output_result.png`
-
----
-
-## 🧠 My Learning Reflection
-
-In this project, I am learning that SQL is not just about writing queries, but about solving business problems using data.
-
-I also realized that **date-based analysis is used in almost every real-world report**.
-
-This helped me gain confidence in handling interview-level SQL questions.
-
----
-
-## 🔍 SEO Keywords
-
-SQL date analysis project
-SQL DATEDIFF example
-SQL DATEPART quarterly analysis
-SQL YoY growth SQL query
-SQL window functions LAG example
-SQL business analysis project
-Data analyst SQL portfolio project
-
+This case study is part of my SQL business-case and interview-practice portfolio.
