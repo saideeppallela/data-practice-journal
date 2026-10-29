@@ -1,4 +1,4 @@
-# Day 79 — Power Query Basics in Microsoft Excel for Data Analytics | Excel Data Cleaning & Automation Project
+# — Power Query Basics in Microsoft Excel for Data Analytics | Excel Data Cleaning & Automation Project
 
 ## 📌 Project Introduction
 
@@ -38,7 +38,7 @@ This project focused on building a repeatable and refreshable Excel data cleanin
 # 📂 Folder Structure
 
 ```text
-day79_power_query_basics/
+04_power_query_basics/
 
 ├── dirty_sales.csv
 ├── power_query_cleaning_workflow.xlsx

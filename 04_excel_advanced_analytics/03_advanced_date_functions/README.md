@@ -1,7 +1,7 @@
-# Day 78 — Advanced Date Functions in Microsoft Excel for Data Analytics  
+# — Advanced Date Functions in Microsoft Excel for Data Analytics
 ## NETWORKDAYS, EDATE, DATEDIF, WORKDAY | BFSI HR Analytics Project
 
-📁 Folder Name: `day78_advanced_date_functions/`
+📁 Folder Name: `03_advanced_date_functions/`
 
 ---
 
@@ -9,7 +9,7 @@
 
 This project is part of my **120 Days Data Analyst Learning Journey**, where I am learning Microsoft Excel for Data Analytics through practical projects and structured GitHub documentation.
 
-For Day 78, I focused on learning **Advanced Date Functions in Microsoft Excel** using a realistic BFSI (Banking, Financial Services, and Insurance) HR dataset.
+For , I focused on learning **Advanced Date Functions in Microsoft Excel** using a realistic BFSI (Banking, Financial Services, and Insurance) HR dataset.
 
 Instead of only practicing formulas, I tried to understand:
 
@@ -303,9 +303,9 @@ This project helped me focus more on business understanding rather than only mem
 # 📂 Folder Structure
 
 ```plaintext
-day78_advanced_date_functions/
+03_advanced_date_functions/
 │
-├── Day78_HR_BFSI_DateFunctions.xlsx
+├── BFSI_HR_Date_Functions.xlsx
 ├── README.md
 │
 ├── screenshot_date_functions_main.png

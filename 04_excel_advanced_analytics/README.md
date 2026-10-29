@@ -22,7 +22,7 @@ The projects cover data cleaning, data transformation, dashboard development, bu
 
 | Item | Details |
 |------|----------|
-| 📅 Journey | **Days 76–83 / 120** |
+| Journey | **8 Advanced Excel Analytics Projects** |
 | 🛠 Tool | Microsoft Excel 365 |
 | 🎓 Focus | Advanced Excel Analytics |
 | 📈 Level | Intermediate → Advanced |
@@ -31,17 +31,16 @@ The projects cover data cleaning, data transformation, dashboard development, bu
 
 # 📂 Projects
 
-| Day | Topic | Folder |
-|-----|--------|--------|
-| ✅ Day 76 | Dynamic Arrays | `day76_dynamic_arrays_basics` |
-| ✅ Day 77 | Advanced Dynamic Arrays | `day77_dynamic_arrays_advanced` |
-| ✅ Day 78 | Advanced Date Functions | `day78_advanced_date_functions` |
-| ✅ Day 79 | Power Query Basics | `day79_power_query_basics` |
-| ✅ Day 80 | Power Query Advanced Transformations | `day80_power_query_advanced_transformations` |
-| ✅ Day 81 | What-If Analysis | `day81_what_if_analysis` |
-| ✅ Day 82 | Executive Sales Dashboard | `day82_final_business_report` |
-| ✅ Day 83 | Business Analysis Report | `day83_business_analysis_report` |
-
+| Status | Topic | Folder |
+|--------|-------|--------|
+| Complete | Dynamic Arrays | `01_dynamic_arrays_basics` |
+| Complete | Advanced Dynamic Arrays | `02_dynamic_arrays_advanced` |
+| Complete | Advanced Date Functions | `03_advanced_date_functions` |
+| Complete | Power Query Basics | `04_power_query_basics` |
+| Complete | Power Query Advanced Transformations | `05_power_query_advanced_transformations` |
+| Complete | What-If Analysis | `06_what_if_analysis` |
+| Complete | Executive Sales Dashboard | `07_final_business_report` |
+| Complete | Business Analysis Report | `08_business_analysis_report` |
 ---
 
 # 🧠 Skills Practiced

@@ -117,10 +117,10 @@ This project strengthened my understanding of organizing data, designing dashboa
 # 📂 Repository Structure
 
 ```text
-day82_final_business_report/
+07_final_business_report/
 │
 ├── README.md
-├── Day82_Executive_Sales_Dashboard.xlsx
+├── Executive_Sales_Dashboard.xlsx
 ├── executive_dashboard_final.png
 ├── kpi_dashboard_cards.png
 ├── dashboard_charts.png

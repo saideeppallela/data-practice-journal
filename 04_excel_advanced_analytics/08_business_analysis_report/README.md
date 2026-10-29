@@ -94,19 +94,19 @@ The primary objective of this project is to analyze business performance and ans
 
 ## Dashboard
 
-![Dashboard](01_dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
 ## Analysis
 
-![Analysis](02_analysis.png)
+![Analysis](analysis.png)
 
 ---
 
 ## Findings
 
-![Findings](03_findings.png)
+![Findings](findings.png)
 
 ---
 
@@ -166,14 +166,14 @@ Through this project, I gained practical experience in:
 # 📂 Project Structure
 
 ```text
-day83_business_analysis_report/
+08_business_analysis_report/
 │
-├── Day83_Business_Analysis_Report.xlsx
+├── Business_Analysis_Report.xlsx
 ├── README.md
 └── screenshots/
-    ├── 01_dashboard.png
-    ├── 02_analysis.png
-    └── 03_findings.png
+    ├── dashboard.png
+    ├── analysis.png
+    └── findings.png
 ```
 
 ---

@@ -1,4 +1,4 @@
-# Day 76 — Excel Dynamic Arrays Practice Project | FILTER, SORT, UNIQUE, SEQUENCE
+# — Excel Dynamic Arrays Practice Project | FILTER, SORT, UNIQUE, SEQUENCE
 
 ## 📅 Date
 May 12, 2026
@@ -18,7 +18,7 @@ Indian Retail Sales Dataset (500 Rows)
 
 After taking a 23-day personal break due to my mother’s hospitalization, today I restarted my Data Analyst learning journey again.
 
-For Day 76, I learned one of the most important modern Excel topics:
+For , I learned one of the most important modern Excel topics:
 
 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗔𝗿𝗿𝗮𝘆𝘀.
 
@@ -145,7 +145,7 @@ This topic completely changed how I look at Excel.
 # 📂 Project Folder Structure
 
 ```plaintext
-day76_dynamic_arrays_basics/
+01_dynamic_arrays_basics/
 │
 ├── dataset/
 │   └── retail_sales_dataset.xlsx

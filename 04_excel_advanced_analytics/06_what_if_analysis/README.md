@@ -1,10 +1,8 @@
-# 📊 Microsoft Excel for Data Analytics | What-If Analysis (Goal Seek, Scenario Manager & Data Table) | Day 81
-
-<p align="center">
+# 📊 Microsoft Excel for Data Analytics | What-If Analysis (Goal Seek, Scenario Manager & Data Table) | <p align="center">
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-365-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-What--If_Analysis-blue?style=for-the-badge)
-![Day 81](https://img.shields.io/badge/120_Days-Day_81-success?style=for-the-badge)
+
 
 </p>
 
@@ -12,7 +10,7 @@
 
 # 👋 Introduction
 
-Welcome to **Day 81** of my **120-Day Data Analytics Learning Journey**.
+Welcome to **** of my **120-Day Data Analytics Learning Journey**.
 
 Today's focus was understanding how **Excel What-If Analysis** helps analysts answer business questions without manually changing multiple values.
 
@@ -170,10 +168,10 @@ More importantly, I learned when each feature should be used in a real business 
 # 📂 Repository Structure
 
 ```text
-day81_what_if_analysis/
+06_what_if_analysis/
 │
 ├── README.md
-├── Day81_What_If_Analysis_Dataset.xlsx
+├── What_If_Analysis_Dataset.xlsx
 ├── what_if_analysis_tools.png
 └── scenario_summary.png
 ```
@@ -208,7 +206,7 @@ Microsoft Excel for Data Analytics, Advanced Excel, What-If Analysis, Goal Seek,
 
 <p align="center">
 
-## ⭐ Day 81 / 120 Completed
+## ⭐ / 120 Completed
 
 **Learning one business problem at a time. Building one skill at a time.**
 

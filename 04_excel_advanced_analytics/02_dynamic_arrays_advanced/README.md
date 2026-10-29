@@ -1,7 +1,7 @@
-# Day 77 — Advanced Dynamic Arrays in Microsoft Excel for Data Analytics  
+# — Advanced Dynamic Arrays in Microsoft Excel for Data Analytics
 ## SORTBY, FILTER AND/OR, TAKE, and VSTACK
 
-📁 Folder Name: `day77_dynamic_arrays_advanced/`
+📁 Folder Name: `02_dynamic_arrays_advanced/`
 
 ---
 
@@ -9,7 +9,7 @@
 
 This project is part of my ongoing **120 Days Data Analyst Learning Journey**, where I am learning Microsoft Excel for Data Analytics through practical business-focused projects and structured GitHub documentation.
 
-For Day 77, I focused on learning and practicing advanced Dynamic Array formulas in Microsoft Excel using realistic retail sales datasets and reporting scenarios.
+For , I focused on learning and practicing advanced Dynamic Array formulas in Microsoft Excel using realistic retail sales datasets and reporting scenarios.
 
 Instead of only memorizing formulas, I tried to understand:
 
@@ -302,9 +302,9 @@ This project also helped me become more comfortable with modern Excel analytics 
 # 📂 Folder Structure
 
 ```plaintext
-day77_dynamic_arrays_advanced/
+02_dynamic_arrays_advanced/
 │
-├── Day77_Dynamic_Arrays_Advanced.xlsx
+├── Dynamic_Arrays_Advanced.xlsx
 ├── README.md
 │
 ├── screenshot_filter_and_formula.png

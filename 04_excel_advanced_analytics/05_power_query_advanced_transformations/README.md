@@ -1,12 +1,10 @@
-# Microsoft Excel for Data Analytics | Power Query Advanced Transformations | Day 80
-
-> Learning Microsoft Excel for Data Analytics through practical, real-world Power Query exercises as part of my **120-Day Data Analytics Learning Journey**.
+# Microsoft Excel for Data Analytics | Power Query Advanced Transformations | > Learning Microsoft Excel for Data Analytics through practical, real-world Power Query exercises as part of my **120-Day Data Analytics Learning Journey**.
 
 ---
 
 # 📖 Introduction
 
-This repository documents my Day 80 learning focused on **Power Query Advanced Transformations** in Microsoft Excel.
+This repository documents my learning focused on **Power Query Advanced Transformations** in Microsoft Excel.
 
 The objective was to understand how business data is prepared before reporting and dashboard creation by combining multiple datasets, creating calculated columns, and generating meaningful summaries.
 
@@ -187,9 +185,9 @@ Category-wise Revenue Summary and Customer-wise Transaction Count generated usin
 # 📁 Repository Structure
 
 ```text
-day80_power_query_advanced_transformations/
+05_power_query_advanced_transformations/
 │── README.md
-│── Day80_Power_Query_Advanced_Datasets.xlsx
+│── Power_Query_Advanced_Datasets.xlsx
 └── screenshots/
     ├── final_query.png
     └── summary_queries.png
@@ -213,5 +211,5 @@ Microsoft Excel for Data Analytics, Advanced Excel, Power Query, Excel Data Anal
 
 ---
 
-**Day 80 / 120 ✅**
+**/ 120 ✅**
 **Learning Microsoft Excel through practical business scenarios, one day at a time.**
