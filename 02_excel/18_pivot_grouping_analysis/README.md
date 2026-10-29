@@ -40,7 +40,7 @@ This dataset structure is commonly seen in **sales analytics and reporting envir
 
 Below is a preview of the dataset used for this analysis.
 
-![Sales Dataset](day48_sales_dataset.png)
+![Sales Dataset](sales_dataset.png)
 
 ---
 
@@ -154,13 +154,13 @@ This helps highlight **top-performing product categories**.
 
 ### Monthly Pivot Grouping
 
-![Monthly Pivot Grouping](day48_pivot_grouped_months.png)
+![Monthly Pivot Grouping](pivot_grouped_months.png)
 
 ---
 
 ### Category and Region Analysis
 
-![Category Region Analysis](day48_category_region_analysis.png)
+![Category Region Analysis](category_region_analysis.png)
 
 ---
 
@@ -201,10 +201,10 @@ These techniques are frequently used in **monthly reporting and sales performanc
 # 📁 Project Files
 
 ```
-day48_pivot_grouping_analysis.xlsx
-day48_sales_dataset.png
-day48_pivot_grouped_months.png
-day48_category_region_analysis.png
+pivot_grouping_analysis.xlsx
+sales_dataset.png
+pivot_grouped_months.png
+category_region_analysis.png
 ```
 
 ---

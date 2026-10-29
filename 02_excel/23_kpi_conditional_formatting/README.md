@@ -38,7 +38,7 @@ This structure is commonly used in **KPI tracking and performance reporting dash
 
 Below is the dataset used in this analysis.
 
-![Dataset](day53_dataset.png)
+![Dataset](dataset.png)
 
 ---
 
@@ -126,19 +126,19 @@ This helps compare revenue visually across regions.
 
 ### KPI Highlighting
 
-![KPI Highlighting](day53_kpi_highlight.png)
+![KPI Highlighting](kpi_highlight.png)
 
 ---
 
 ### Profit Margin Visualization
 
-![Profit Margin](day53_profit_margin_colors.png)
+![Profit Margin](profit_margin_colors.png)
 
 ---
 
 ### Revenue Data Bars
 
-![Data Bars](day53_data_bars.png)
+![Data Bars](data_bars.png)
 
 ---
 
@@ -179,11 +179,11 @@ These are critical skills for **data analysts working on KPI dashboards and repo
 # 📁 Project Files
 
 ```
-day53_kpi_conditional_formatting.xlsx
-day53_dataset.png
-day53_kpi_highlight.png
-day53_profit_margin_colors.png
-day53_data_bars.png
+kpi_conditional_formatting.xlsx
+dataset.png
+kpi_highlight.png
+profit_margin_colors.png
+data_bars.png
 ```
 
 ---

@@ -101,16 +101,16 @@ This exercise helped me understand how Excel lookup functions perform **relation
 
 ### Orders Dataset
 
-![Orders Table](day41_orders_table.png)
+![Orders Table](orders_table.png)
 
 ### VLOOKUP Result
 
-![VLOOKUP](day41_vlookup_result.png)
+![VLOOKUP](vlookup_result.png)
 
 ### XLOOKUP Result
 
-![XLOOKUP](day41_xlookup_result.png)
+![XLOOKUP](xlookup_result.png)
 
 ### Revenue Calculation
 
-![Revenue](day41_revenue_calculation.png)
+![Revenue](revenue_calculation.png)

@@ -38,7 +38,7 @@ This dataset structure is commonly used in **business reporting and visualizatio
 
 Below is the dataset used for this analysis.
 
-![Dataset](day51_dataset.png)
+![Dataset](dataset.png)
 
 ---
 
@@ -162,19 +162,19 @@ Used for:
 
 ### Monthly Revenue Trend (Line Chart)
 
-![Monthly Trend](day51_line_chart_trend.png)
+![Monthly Trend](line_chart_trend.png)
 
 ---
 
 ### Region Performance Comparison (Column Chart)
 
-![Region Comparison](day51_region_comparison.png)
+![Region Comparison](region_comparison.png)
 
 ---
 
 ### Category Contribution (Pie Chart)
 
-![Category Contribution](day51_category_contribution.png)
+![Category Contribution](category_contribution.png)
 
 ---
 
@@ -213,11 +213,11 @@ These are essential skills for **data analysts working on reports and dashboards
 # 📁 Project Files
 
 ```
-day51_business_charts_analysis.xlsx
-day51_dataset.png
-day51_line_chart_trend.png
-day51_region_comparison.png
-day51_category_contribution.png
+business_charts_analysis.xlsx
+dataset.png
+line_chart_trend.png
+region_comparison.png
+category_contribution.png
 ```
 
 ---

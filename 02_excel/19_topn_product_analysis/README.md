@@ -40,7 +40,7 @@ This type of dataset structure is commonly used in **sales performance analysis 
 
 Below is a preview of the dataset used in this analysis.
 
-![Sales Dataset](day49_sales_dataset.png)
+![Sales Dataset](sales_dataset.png)
 
 ---
 
@@ -137,19 +137,19 @@ This pivot table highlights the **highest revenue generating products**.
 
 ### Revenue Ranking Formula
 
-![Revenue Ranking](day49_revenue_ranking_formula.png)
+![Revenue Ranking](revenue_ranking_formula.png)
 
 ---
 
 ### Top Product Identification
 
-![Top Product Flag](day49_top_products_flag.png)
+![Top Product Flag](top_products_flag.png)
 
 ---
 
 ### Pivot Table — Top Revenue Products
 
-![Top Products Pivot](day49_top_products_pivot.png)
+![Top Products Pivot](top_products_pivot.png)
 
 ---
 
@@ -190,11 +190,11 @@ These skills are frequently used in **sales analytics, performance reporting, an
 # 📁 Project Files
 
 ```
-day49_top_products_analysis.xlsx
-day49_sales_dataset.png
-day49_revenue_ranking_formula.png
-day49_top_products_flag.png
-day49_top_products_pivot.png
+top_products_analysis.xlsx
+sales_dataset.png
+revenue_ranking_formula.png
+top_products_flag.png
+top_products_pivot.png
 ```
 
 ---

@@ -37,7 +37,7 @@ they prepare it so the business can trust the numbers.
 ## 📸 Work snapshots
 
 ### Table Structure Created
-![Table Structure](day32_table_structure.png)
+![Table Structure](table_structure.png)
 
 ### Columns Cleaned & Standardized
-![Cleaning Columns](day32_cleaning_columns.png)
+![Cleaning Columns](cleaning_columns.png)

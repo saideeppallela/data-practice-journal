@@ -47,7 +47,7 @@ This dataset structure is commonly used in **business performance analysis and e
 
 Below is the dataset used in this analysis.
 
-![Dataset](day54_dataset.png)
+Dataset details are described in the Dataset Overview section above.
 
 ---
 
@@ -154,31 +154,31 @@ Designed as a **clean one-page dashboard**.
 
 ### KPI Section
 
-![KPI Section](day54_kpi_section.png)
+![KPI Section](kpi_section.png)
 
 ---
 
 ### Revenue Trend
 
-![Trend Chart](day54_trend_chart.png)
+![Trend Chart](trend_chart.png)
 
 ---
 
 ### Category Analysis
 
-![Category Analysis](day54_category_analysis.png)
+![Category Analysis](category_analysis.png)
 
 ---
 
 ### Region Analysis
 
-![Region Analysis](day54_region_analysis.png)
+![Region Analysis](region_analysis.png)
 
 ---
 
 ### Final Dashboard
 
-![Dashboard](day54_final_dashboard.png)
+![Dashboard](final_dashboard.png)
 
 ---
 
@@ -219,12 +219,12 @@ These are critical skills for **data analyst roles focused on business reporting
 # 📁 Project Files
 
 ```
-day54_executive_summary_sheet.xlsx
-day54_kpi_section.png
-day54_trend_chart.png
-day54_category_analysis.png
-day54_region_analysis.png
-day54_final_dashboard.png
+executive_summary_sheet.xlsx
+kpi_section.png
+trend_chart.png
+category_analysis.png
+region_analysis.png
+final_dashboard.png
 ```
 
 ---

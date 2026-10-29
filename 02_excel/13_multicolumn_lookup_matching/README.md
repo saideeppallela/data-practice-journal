@@ -152,12 +152,12 @@ These are common steps in real data analyst workflows.
 
 ### Sales Orders Dataset
 
-![Sales Orders](day43_sales_orders_table.png)
+![Sales Orders](sales_orders_table.png)
 
 ### Multi-Column Lookup Logic
 
-![Lookup Logic](day43_multicolumn_lookup_logic.png)
+![Lookup Logic](multicolumn_lookup_logic.png)
 
 ### Revenue Calculation
 
-![Revenue](day43_revenue_calculation.png)
+![Revenue](revenue_calculation.png)

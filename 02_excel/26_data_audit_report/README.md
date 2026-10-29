@@ -14,47 +14,47 @@ Problem:
 Revenue and profit numbers in reports were not matching finance records.
 
 So before doing any analysis, I focused on:
-- Auditing the dataset  
-- Identifying errors  
-- Highlighting inconsistencies  
-- Making the data reliable  
+- Auditing the dataset
+- Identifying errors
+- Highlighting inconsistencies
+- Making the data reliable
 
 ---
 
 ## 📂 Dataset Overview
 
 The dataset contains sales transaction details:
-- Order ID  
-- Order Date  
-- Region  
-- Category  
-- Revenue  
-- Cost  
-- Reported Profit  
+- Order ID
+- Order Date
+- Region
+- Category
+- Revenue
+- Cost
+- Reported Profit
 
 ---
 
 ## 📸 Raw Data Errors
 
-![Raw Data Errors](day56_raw_data_errors.png)
+![Raw Data Errors](raw_data_errors.png)
 
 ---
 
 ## 🎯 Analysis Objective
 
 To build an Excel audit layer that detects:
-- Missing values  
-- Incorrect profit calculations  
-- Duplicate entries  
-- Business rule violations  
+- Missing values
+- Incorrect profit calculations
+- Duplicate entries
+- Business rule violations
 
 ---
 
 ## ⚙️ Analysis Process
 
 ### Step 1 — Convert to Table
-- Used Ctrl + T  
-- Named table: audit_data  
+- Used Ctrl + T
+- Named table: audit_data
 
 ---
 
@@ -68,7 +68,7 @@ Formula used:
 Formula used:
 =IF([@reported_profit]=[@actual_profit],"OK","Mismatch")
 
-![Profit Mismatch](day56_profit_mismatch.png)
+![Profit Mismatch](profit_mismatch.png)
 
 ---
 
@@ -82,12 +82,12 @@ Formula used:
 Formula used:
 =IF(COUNTIF(audit_data[order_id],[@order_id])>1,"Duplicate","Unique")
 
-![Duplicate Check](day56_duplicate_check.png)
+![Duplicate Check](duplicate_check.png)
 
 ---
 
 ### Step 6 — Business Rule Validation
-Rule: Profit should not exceed revenue  
+Rule: Profit should not exceed revenue
 
 Formula used:
 =IF([@reported_profit]>[@revenue],"Error","OK")
@@ -96,20 +96,20 @@ Formula used:
 
 ### Step 7 — Audit Summary Table
 Used COUNTIF to calculate:
-- Mismatch count  
-- Missing count  
-- Duplicate count  
+- Mismatch count
+- Missing count
+- Duplicate count
 
-![Audit Summary](day56_audit_summary.png)
+![Audit Summary](audit_summary.png)
 
 ---
 
 ### Step 8 — Conditional Formatting
-- Red → Errors  
-- Yellow → Missing  
-- Green → OK  
+- Red → Errors
+- Yellow → Missing
+- Green → OK
 
-![Conditional Formatting](day56_conditional_formatting.png)
+![Conditional Formatting](conditional_formatting.png)
 
 ---
 
@@ -122,47 +122,47 @@ Calculated clean data percentage using:
 ## 📊 Analysis Output
 
 The audit system successfully identified:
-- Incorrect profit values  
-- Missing revenue entries  
-- Duplicate records  
-- Logical errors  
+- Incorrect profit values
+- Missing revenue entries
+- Duplicate records
+- Logical errors
 
 ---
 
 ## 💡 Business Insights
 
-- Incorrect profit reporting can mislead financial decisions  
-- Duplicate entries can inflate revenue numbers  
-- Missing values can break analysis  
-- Data validation is mandatory before reporting  
+- Incorrect profit reporting can mislead financial decisions
+- Duplicate entries can inflate revenue numbers
+- Missing values can break analysis
+- Data validation is mandatory before reporting
 
 ---
 
 ## 🧠 Skills Practiced
 
-- Excel Data Auditing  
-- IF & COUNTIF functions  
-- Data Validation Techniques  
-- Error Detection  
-- Conditional Formatting  
-- Business Rule Checks  
+- Excel Data Auditing
+- IF & COUNTIF functions
+- Data Validation Techniques
+- Error Detection
+- Conditional Formatting
+- Business Rule Checks
 
 ---
 
 ## 🛠️ Tools Used
 
-- Microsoft Excel  
+- Microsoft Excel
 
 ---
 
 ## 📁 Project Files
 
-- day56_data_audit_report.xlsx  
-- day56_raw_data_errors.png  
-- day56_profit_mismatch.png  
-- day56_duplicate_check.png  
-- day56_audit_summary.png  
-- day56_conditional_formatting.png  
+- data_audit_report.xlsx
+- raw_data_errors.png
+- profit_mismatch.png
+- duplicate_check.png
+- audit_summary.png
+- conditional_formatting.png
 
 ---
 
@@ -171,8 +171,8 @@ The audit system successfully identified:
 Today I understood that data accuracy is more important than analysis.
 
 If data is wrong:
-- Insights become misleading  
-- Decisions become risky  
+- Insights become misleading
+- Decisions become risky
 
 This task helped me think like a real analyst who validates data before using it.
 

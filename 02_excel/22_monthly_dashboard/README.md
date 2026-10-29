@@ -38,7 +38,7 @@ This structure is commonly used in **dashboard reporting and business analysis w
 
 Below is the dataset used in this analysis.
 
-![Dataset](day52_dataset.png)
+![Dataset](dataset.png)
 
 ---
 
@@ -161,25 +161,25 @@ This allows filtering the dashboard dynamically and makes it **interactive**.
 
 ### Monthly Revenue Trend
 
-![Monthly Trend](day52_monthly_trend.png)
+![Monthly Trend](monthly_trend.png)
 
 ---
 
 ### Region Performance
 
-![Region Chart](day52_region_chart.png)
+![Region Chart](region_chart.png)
 
 ---
 
 ### Category Contribution
 
-![Category Chart](day52_category_chart.png)
+![Category Chart](category_chart.png)
 
 ---
 
 ### Final Dashboard View
 
-![Dashboard](day52_dashboard_view.png)
+![Dashboard](dashboard_view.png)
 
 ---
 
@@ -220,12 +220,12 @@ These are core skills required for **data analyst and business analyst roles**.
 # 📁 Project Files
 
 ```
-day52_monthly_dashboard.xlsx
-day52_dataset.png
-day52_monthly_trend.png
-day52_region_chart.png
-day52_category_chart.png
-day52_dashboard_view.png
+monthly_dashboard.xlsx
+dataset.png
+monthly_trend.png
+region_chart.png
+category_chart.png
+dashboard_view.png
 ```
 
 ---

@@ -38,7 +38,7 @@ This exercise helped me understand how to protect calculations from missing or i
 ## 📸 Work Snapshots
 
 ### IFERROR Fix
-![IFERROR Fix](day39_iferror_fix.png)
+![IFERROR Fix](iferror_fix.png)
 
 ### Missing Data Flag
-![Missing Data](day39_missing_data_flag.png)
+![Missing Data](missing_data_flag.png)

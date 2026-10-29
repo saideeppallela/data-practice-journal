@@ -37,7 +37,7 @@ Additional column created:
 
 # 📸 Dataset Preview
 
-![Raw Data](day58_raw_data_sheet.png)
+![Raw Data](raw_data_sheet.png)
 
 ---
 
@@ -127,31 +127,31 @@ Applied professional formatting:
 
 ### Dashboard View
 
-![Dashboard](day58_dashboard_view.png)
+![Dashboard](dashboard_view.png)
 
 ---
 
 ### README Instructions
 
-![README](day58_readme_sheet.png)
+![README](readme_sheet.png)
 
 ---
 
 ### Category Performance
 
-![Category](day58_category_performance.png)
+![Category](category_performance.png)
 
 ---
 
 ### Region Performance
 
-![Region](day58_region_performance.png)
+![Region](region_performance.png)
 
 ---
 
 ### Hidden Data Sheet
 
-![Hidden Data](day58_hidden_data.png)
+![Hidden Data](hidden_data.png)
 
 ---
 
@@ -188,13 +188,13 @@ From this setup:
 # 📁 Project Files
 
 ```
-day58_stakeholder_ready_excel.xlsx
-day58_raw_data_sheet.png
-day58_dashboard_view.png  
-day58_readme_sheet.png
-day58_hidden_data.png  
-day58_category_performance.png
-day58_region_performance.png
+stakeholder_ready_excel.xlsx
+raw_data_sheet.png
+dashboard_view.png
+readme_sheet.png
+hidden_data.png
+category_performance.png
+region_performance.png
 ```
 
 ---

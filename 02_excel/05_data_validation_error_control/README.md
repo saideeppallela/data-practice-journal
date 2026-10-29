@@ -40,10 +40,10 @@ This exercise helped me think more like a reporting analyst, not just an Excel u
 ## 📸 Work Snapshots
 
 ### Region Dropdown Validation
-![Region Validation](day35_region_validation.png)
+![Region Validation](region_validation.png)
 
 ### Error Flags & Duplicate Detection
-![Error Flags](day35_error_flags.png)
+![Error Flags](error_flags.png)
 
 ### Validation List Sheet
-![Validation List](day35_validation_list.png)
+![Validation List](validation_list.png)

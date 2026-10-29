@@ -34,7 +34,7 @@ To make the analysis more meaningful, I created additional business metrics:
 
 ## 👀 Dashboard Preview
 
-![Dashboard](day60_dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
@@ -78,7 +78,7 @@ Used pivot tables to analyze performance across:
 - Customer Type  
 - Product  
 
-![Analysis](day60_analysis.png)
+![Analysis](analysis.png)
 
 ---
 
@@ -99,7 +99,7 @@ Designed a clean and structured dashboard including:
 
 ### 5. Insights & Recommendations
 
-![Insights](day60_insights.png)
+![Insights](insights.png)
 
 ---
 
@@ -124,20 +124,20 @@ Designed a clean and structured dashboard including:
 
 ## 🧾 Documentation Sheet
 
-![Documentation](day60_documentation.png)
+![Documentation](documentation.png)
 
 ---
 
 ## 📂 Project Structure
 
 ```
-day60_ecommerce_profit_analysis/
+30_ecommerce_profit_analysis/
 │
-├── day60_ecommerce_profit_analysis.xlsx
-├── day60_dashboard.png
-├── day60_insights.png
-├── day60_analysis.png
-├── day60_documentation.png
+├── ecommerce_profit_analysis.xlsx
+├── dashboard.png
+├── insights.png
+├── analysis.png
+├── documentation.png
 └── README.md
 ```
 

@@ -33,11 +33,11 @@ Instead of manually checking records, formulas allow analysts to automate classi
 ## 📸 Work Snapshots
 
 ### Revenue Category
-![Revenue Category](day38_revenue_category_logic.png)
+![Revenue Category](revenue_category_logic.png)
 
 ### Revenue Band Logic
-![Revenue Band](day38_revenue_band_logic.png)
+![Revenue Band](revenue_band_logic.png)
 
 ### Discount Risk
-![Discount Risk](day38_discount_risk_flag.png)
+![Discount Risk](discount_risk_flag.png)
 

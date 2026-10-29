@@ -156,12 +156,12 @@ This exercise helped me understand how Excel lookup functions can be used to:
 
 ### ERP Sales Report
 
-![ERP Report](day44_erp_report_table.png)
+![ERP Report](erp_report_table.png)
 
 ### Reconciliation Output
 
-![Reconciliation](day44_reconciliation_results.png)
+![Reconciliation](reconciliation_results.png)
 
 ### Missing Orders Analysis
 
-![Missing Orders](day44_missing_orders_analysis.png)
+![Missing Orders](missing_orders_analysis.png)

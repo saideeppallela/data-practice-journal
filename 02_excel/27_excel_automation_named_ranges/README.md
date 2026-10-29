@@ -42,7 +42,7 @@ This dataset is commonly used in **automated reporting and performance tracking 
 
 # 📸 Dataset Preview
 
-![Table Structure](day57_table_structure.png)
+![Table Structure](table_structure.png)
 
 ---
 
@@ -111,7 +111,7 @@ Used Name Manager to define:
 =COUNTA(sales_table[order_id])
 ```
 
-![Named Ranges](day57_named_ranges.png)
+![Named Ranges](named_ranges.png)
 
 ---
 
@@ -125,7 +125,7 @@ Created KPI cards using named ranges:
 
 These update automatically when data changes.
 
-![KPI Auto Update](day57_kpi_auto_update.png)
+![KPI Auto Update](kpi_auto_update.png)
 
 ---
 
@@ -148,7 +148,7 @@ Added new data row to verify:
 • KPIs update automatically  
 • Pivot reflects new data (after refresh)  
 
-![New Data Added](day57_new_data_added.png)
+![New Data Added](new_data_added.png)
 
 ---
 
@@ -156,7 +156,7 @@ Added new data row to verify:
 
 ### Final Dashboard View
 
-![Dashboard](day57_final_dashboard.png)
+![Dashboard](final_dashboard.png)
 
 ---
 
@@ -197,12 +197,12 @@ These are essential skills for **analyst roles working with Excel-based reportin
 # 📁 Project Files
 
 ```
-day57_excel_automation_named_ranges.xlsx
-day57_table_structure.png
-day57_named_ranges.png
-day57_kpi_auto_update.png
-day57_new_data_added.png
-day57_final_dashboard.png
+excel_automation_named_ranges.xlsx
+table_structure.png
+named_ranges.png
+kpi_auto_update.png
+new_data_added.png
+final_dashboard.png
 ```
 
 ---

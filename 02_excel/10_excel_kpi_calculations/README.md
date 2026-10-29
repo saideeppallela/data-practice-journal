@@ -37,11 +37,11 @@ This exercise helped me understand how Excel can be used to build simple KPI rep
 ## 📸 Work Snapshots
 
 ### Revenue Calculation
-![Revenue](day40_revenue_calculation.png)
+![Revenue](revenue_calculation.png)
 
 ### KPI Dashboard
-![KPI Dashboard](day40_kpi_dashboard.png)
+![KPI Dashboard](kpi_dashboard.png)
 
 ### Regional KPIs
-![Region KPI](day40_region_kpi.png)
+![Region KPI](region_kpi.png)
 

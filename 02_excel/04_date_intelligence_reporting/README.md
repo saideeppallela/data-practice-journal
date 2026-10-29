@@ -38,10 +38,10 @@ I’m gradually learning how analysts transform transactional data into reportin
 ## 📸 Work Snapshots
 
 ### Reporting Month Column Created
-![Reporting Month](day34_reporting_month.png)
+![Reporting Month](reporting_month.png)
 
 ### Delivery Delay Classification
-![Delay Flag](day34_delay_flag.png)
+![Delay Flag](delay_flag.png)
 
 ### Date Columns Structured for Reporting
-![Date Columns](day34_table_with_date_columns.png)
+![Date Columns](table_with_date_columns.png)

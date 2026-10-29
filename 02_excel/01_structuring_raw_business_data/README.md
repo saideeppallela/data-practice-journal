@@ -37,7 +37,7 @@ This is helping me think more like an analyst, not just an Excel user.
 ## 📸 Work snapshots
 
 ### Structured Table
-![Structured Table](day31_table_created.png)
+![Structured Table](table_created.png)
 
 ### Revenue Logic Applied
-![Revenue Logic](day31_revenue_calculation.png)
+![Revenue Logic](revenue_calculation.png)

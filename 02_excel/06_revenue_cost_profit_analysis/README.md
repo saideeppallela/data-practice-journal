@@ -39,7 +39,7 @@ I’m gradually learning how raw data becomes meaningful business metrics.
 ![Business calculations](Business_calculations.png)
 
 ### Profit Margin
-![Profit Margin](day36_profit_margin.png)
+![Profit Margin](profit_margin.png)
 
 ### Profit Status Flag
-![Profit Status](day36_profit_status_flag.png)
+![Profit Status](profit_status_flag.png)

@@ -47,7 +47,7 @@ This dataset is commonly used in **sales performance dashboards and business rep
 
 Below is the dataset used for this analysis.
 
-![Dataset](day55_dataset.png)
+![Dataset](dataset.png)
 
 ---
 
@@ -141,31 +141,31 @@ Arranged:
 
 ### Full Dashboard View
 
-![Dashboard](day55_dashboard_full.png)
+![Dashboard](dashboard_full.png)
 
 ---
 
 ### Slicer Interaction
 
-![Slicers](day55_slicers_interaction.png)
+![Slicers](slicers_interaction.png)
 
 ---
 
 ### KPI Cards
 
-![KPI](day55_kpi_cards.png)
+![KPI](kpi_cards.png)
 
 ---
 
 ### Category Performance
 
-![Category](day55_category_chart.png)
+![Category](category_chart.png)
 
 ---
 
 ### Region Performance
 
-![Region](day55_region_chart.png)
+![Region](region_chart.png)
 
 ---
 
@@ -206,12 +206,12 @@ These are key skills required for **Excel-based data analyst roles**.
 # 📁 Project Files
 
 ```
-day55_analyst_excel_dashboard.xlsx
-day55_dashboard_full.png
-day55_slicers_interaction.png
-day55_kpi_cards.png
-day55_category_chart.png
-day55_region_chart.png
+analyst_excel_dashboard.xlsx
+dashboard_full.png
+slicers_interaction.png
+kpi_cards.png
+category_chart.png
+region_chart.png
 ```
 
 ---

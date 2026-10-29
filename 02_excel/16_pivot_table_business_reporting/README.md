@@ -118,12 +118,12 @@ This exercise helped me understand how pivot tables can be used to:
 
 ### Sales Dataset
 
-![Sales Dataset](day46_sales_dataset.png)
+![Sales Dataset](sales_dataset.png)
 
 ### Pivot Table Report
 
-![Pivot Table](day46_pivot_table_report.png)
+![Pivot Table](pivot_table_report.png)
 
 ### Revenue by Region
 
-![Revenue by Region](day46_revenue_by_region.png)
+![Revenue by Region](revenue_by_region.png)

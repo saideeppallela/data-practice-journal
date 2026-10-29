@@ -40,7 +40,7 @@ This dataset structure is commonly used in **sales analytics and business report
 
 Below is the dataset used for this analysis.
 
-![Sales Dataset](day47_sales_dataset.png)
+![Sales Dataset](sales_dataset.png)
 
 ---
 
@@ -142,19 +142,19 @@ This ranks product categories based on **revenue performance**.
 
 ### Pivot Revenue Summary
 
-![Pivot Revenue Summary](day47_pivot_revenue_summary.png)
+![Pivot Revenue Summary](pivot_revenue_summary.png)
 
 ---
 
 ### Revenue Percentage Contribution
 
-![Revenue Percentage Contribution](day47_revenue_percentage_contribution.png)
+![Revenue Percentage Contribution](revenue_percentage_contribution.png)
 
 ---
 
 ### Category Revenue Ranking
 
-![Category Revenue Rank](day47_category_revenue_rank.png)
+![Category Revenue Rank](category_revenue_rank.png)
 
 ---
 
@@ -195,11 +195,11 @@ These techniques are commonly used by analysts when preparing **management repor
 # 📁 Project Files
 
 ```
-day47_advanced_pivot_calculations.xlsx
-day47_sales_dataset.png
-day47_pivot_revenue_summary.png
-day47_revenue_percentage_contribution.png
-day47_category_revenue_rank.png
+advanced_pivot_calculations.xlsx
+sales_dataset.png
+pivot_revenue_summary.png
+revenue_percentage_contribution.png
+category_revenue_rank.png
 ```
 
 ---

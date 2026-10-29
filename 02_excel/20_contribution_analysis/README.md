@@ -40,7 +40,7 @@ This type of dataset is commonly used in **sales analysis and business reporting
 
 Below is the dataset used for this analysis.
 
-![Dataset](day50_dataset.png)
+![Dataset](dataset.png)
 
 ---
 
@@ -160,19 +160,19 @@ This makes the analysis **decision-ready by highlighting top contributors**.
 
 ### Contribution Formula
 
-![Contribution Formula](day50_contribution_formula.png)
+![Contribution Formula](contribution_formula.png)
 
 ---
 
 ### Category Contribution Analysis
 
-![Category Contribution](day50_category_contribution.png)
+![Category Contribution](category_contribution.png)
 
 ---
 
 ### Region Contribution Analysis
 
-![Region Contribution](day50_region_contribution.png)
+![Region Contribution](region_contribution.png)
 
 ---
 
@@ -211,11 +211,11 @@ These skills are widely used in **data analyst and business analyst roles**.
 # 📁 Project Files
 
 ```
-day50_contribution_analysis.xlsx
-day50_dataset.png
-day50_contribution_formula.png
-day50_category_contribution.png
-day50_region_contribution.png
+contribution_analysis.xlsx
+dataset.png
+contribution_formula.png
+category_contribution.png
+region_contribution.png
 ```
 
 ---

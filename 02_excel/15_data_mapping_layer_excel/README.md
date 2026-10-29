@@ -149,12 +149,12 @@ This exercise helped me understand:
 
 ### Product Master Mapping
 
-![Product Master Mapping](day45_product_master_mapping.png)
+![Product Master Mapping](product_master_mapping.png)
 
 ### Category Lookup
 
-![Category Lookup](day45_category_lookup.png)
+![Category Lookup](category_lookup.png)
 
 ### Sales Dataset with Category
 
-![Sales Dataset](day45_sales_report_with_category.png)
+![Sales Dataset](sales_report_with_category.png)

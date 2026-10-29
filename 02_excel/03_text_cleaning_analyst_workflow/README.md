@@ -40,10 +40,10 @@ Cleaning text properly makes every downstream analysis safer.
 ## 📸 Work snapshots
 
 ### Cleaned Dataset View
-![Cleaned Table](day33_cleaned_table.png)
+![Cleaned Table](cleaned_table.png)
 
 ### Text Cleaning Formulas Applied
-![Formulas](day33_text_functions_formula.png)
+![Formulas](text_functions_formula.png)
 
 ---
 

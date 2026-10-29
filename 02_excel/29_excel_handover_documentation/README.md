@@ -32,7 +32,7 @@ This reflects a **real-world reporting workflow in Excel**.
 
 # 📸 Documentation Preview
 
-![Documentation Sheet](day59_documentation_full.png)
+![Documentation Sheet](documentation_full.png)
 
 ---
 
@@ -62,7 +62,7 @@ The goal of this task was to create a **clear, structured documentation sheet** 
 • Listed all sheets and their purpose  
 • Improved navigation clarity  
 
-![Sheet Overview](day59_sheet_overview.png)
+![Sheet Overview](sheet_overview.png)
 
 ---
 
@@ -89,7 +89,7 @@ The goal of this task was to create a **clear, structured documentation sheet** 
 • What not to edit  
 • How to avoid errors  
 
-![Usage Instructions](day59_usage_instructions.png)
+![Usage Instructions](usage_instructions.png)
 
 ---
 
@@ -137,10 +137,10 @@ The goal of this task was to create a **clear, structured documentation sheet** 
 # 📁 Project Files
 
 ```
-day59_excel_handover_documentation.xlsx
-day59_documentation_full.png
-day59_sheet_overview.png
-day59_usage_instructions.png
+excel_automation_named_ranges.xlsx
+documentation_full.png
+sheet_overview.png
+usage_instructions.png
 ```
 
 ---

@@ -101,12 +101,12 @@ This exercise helped me understand how Excel can simulate **relational joins** w
 
 ### Sales Orders Table
 
-![Sales Orders](day42_sales_orders_table.png)
+![Sales Orders](sales_orders_table.png)
 
 ### Category Lookup
 
-![Category Lookup](day42_category_lookup.png)
+![Category Lookup](category_lookup.png)
 
 ### Revenue Calculation
 
-![Revenue Calculation](day42_revenue_calculation.png)
+![Revenue Calculation](revenue_calculation.png)

@@ -36,13 +36,13 @@ Logical formulas allow analysts to build rule-based analysis without manual chec
 ## 📸 Work Snapshots
 
 ### Revenue Logic
-![Revenue Logic](day37_revenue_logic.png)
+![Revenue Logic](revenue_logic.png)
 
 ### Discount Risk Detection
-![Risk Logic](day37_discount_risk.png)
+![Risk Logic](discount_risk.png)
 
 ### Priority Customer Logic
-![Priority Customer](day37_priority_customer.png)
+![Priority Customer](priority_customer.png)
 
 
 ---
