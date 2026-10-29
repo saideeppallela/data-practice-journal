@@ -1,95 +1,136 @@
-## 📊 Phase 2 — Excel for Data Analysis (Day 31–60)
+# 📊 Excel for Data Analysis
 
 <p align="left">
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Microsoft Excel Logo" width="70"/>
 </p>
 
-This phase represents my structured effort to become job-ready in Microsoft Excel for Data Analyst roles.
+This section documents my structured practice in **Microsoft Excel for Data Analysis**, using business-oriented exercises that reflect common data analyst workflows.
 
-Rather than treating Excel as a basic spreadsheet tool, I am using this phase to practice how analysts actually use Excel in business environments — cleaning data, validating reports, building KPIs, and preparing stakeholder-ready outputs.
+The focus is on preparing raw data, cleaning inconsistencies, applying business logic, validating calculations, reconciling reports, analyzing performance, and presenting clear business insights.
 
-Each day in this phase simulates real analyst tasks performed before dashboards or BI tools are used.
-
----
-
-## 🎯 Goal of This Phase
-
-To develop the ability to:
-
-- Clean and structure raw business datasets  
-- Build reliable calculations and KPI logic  
-- Retrieve and reconcile data across reports  
-- Extract insights using pivots and aggregations  
-- Present results clearly for business stakeholders  
-- Document work so it can be reused or audited  
-
-This phase focuses on practical analyst workflows rather than spreadsheet tricks.
+Each numbered folder represents a focused Excel practice topic designed to build practical analytical skills.
 
 ---
 
-## 🗂 Excel Roadmap for Data Analyst Hiring (Day 31–60)
+## 🎯 Objectives
 
-### 🔹 Phase 1 — Data Handling Foundations
-- Day 31 — Structuring Raw Business Data into Tables  
-- Day 32 — Data Cleaning Techniques Analysts Use Daily  
-- Day 33 — Text Functions for Data Fixing  
-- Day 34 — Date Intelligence for Reporting  
-- Day 35 — Data Validation & Error Control  
-
-### 🔹 Phase 2 — Business Calculations & Logic
-- Day 36 — Revenue, Cost, Profit Calculations  
-- Day 37 — Conditional Logic Using IF / IFS  
-- Day 38 — Logical Analysis Using AND / OR / NOT  
-- Day 39 — Handling Missing Data with IFERROR  
-- Day 40 — KPI Calculations for Business Monitoring  
-
-### 🔹 Phase 3 — Lookup & Data Joining (Critical Hiring Skill)
-- Day 41 — VLOOKUP vs XLOOKUP for Analyst Tasks  
-- Day 42 — INDEX + MATCH for Flexible Retrieval  
-- Day 43 — Multi-Column Lookups & Matching  
-- Day 44 — Reconciling Two Reports  
-- Day 45 — Building Mapping Layers in Excel  
-
-### 🔹 Phase 4 — Aggregation & Insight Extraction
-- Day 46 — Pivot Tables for Reporting  
-- Day 47 — Advanced Pivot Calculations  
-- Day 48 — Grouping & Time Analysis in Pivots  
-- Day 49 — Ranking & Top-N Analysis  
-- Day 50 — Contribution & Percentage Analysis  
-
-### 🔹 Phase 5 — Data Visualization Recruiters Expect
-- Day 51 — Choosing Charts for Business Questions  
-- Day 52 — Building Trend Dashboards  
-- Day 53 — KPI Highlighting with Conditional Formatting  
-- Day 54 — Executive Summary Sheets  
-- Day 55 — Analyst-Level Excel Dashboards  
-
-### 🔹 Phase 6 — Real Analyst Workflow Skills (Hiring Edge)
-- Day 56 — Auditing Reports & Detecting Errors  
-- Day 57 — Automating Tasks with Tables & Named Ranges  
-- Day 58 — Preparing Files for Stakeholder Delivery  
-- Day 59 — Documenting Work for Handover  
-- Day 60 — End-to-End Excel Business Case Project  
+- Structure raw business data into analysis-ready tables.
+- Clean inconsistent, missing, and incorrectly formatted data.
+- Apply formulas and logical conditions to business problems.
+- Calculate revenue, costs, profits, and key performance indicators (KPIs).
+- Retrieve and match data using lookup functions.
+- Reconcile reports and validate data accuracy.
+- Analyze business performance using PivotTables and charts.
+- Prepare dashboards, executive summaries, and audit reports.
+- Organize and document Excel work for future reference and handover.
 
 ---
 
-## 🧠 Why This Phase Matters for My Goal
+## 🗂️ Excel Practice Roadmap
 
-In many companies, Excel is still the first tool analysts use before SQL automation or BI dashboards.
+### 🔹 01–05 | Data Preparation and Quality
 
-This phase reflects my effort to learn Excel the way analysts use it in real roles — as a data preparation, validation, and reporting tool.
+| Folder | Topic |
+|---|---|
+| `01_structuring_raw_business_data` | Structuring Raw Business Data |
+| `02_data_cleaning_analyst_workflow` | Data Cleaning Workflow |
+| `03_text_cleaning_analyst_workflow` | Text Cleaning Techniques |
+| `04_date_intelligence_reporting` | Date Intelligence for Reporting |
+| `05_data_validation_error_control` | Data Validation and Error Control |
 
-It prepares me to work confidently with business data even when systems or dashboards are not yet available.
+### 🔹 06–10 | Business Calculations and Logic
+
+| Folder | Topic |
+|---|---|
+| `06_revenue_cost_profit_analysis` | Revenue, Cost, and Profit Analysis |
+| `07_excel_logical_analysis` | Logical Analysis |
+| `08_excel_conditional_logic` | Conditional Logic |
+| `09_handling_missing_data_iferror` | Handling Missing Data with IFERROR |
+| `10_excel_kpi_calculations` | KPI Calculations |
+
+### 🔹 11–15 | Lookup Functions and Reconciliation
+
+| Folder | Topic |
+|---|---|
+| `11_vlookup_vs_xlookup` | VLOOKUP vs. XLOOKUP |
+| `12_index_match_lookup` | INDEX and MATCH |
+| `13_multicolumn_lookup_matching` | Multi-Column Lookup and Matching |
+| `14_sales_report_reconciliation` | Sales Report Reconciliation |
+| `15_data_mapping_layer_excel` | Data Mapping in Excel |
+
+### 🔹 16–20 | PivotTables and Business Analysis
+
+| Folder | Topic |
+|---|---|
+| `16_pivot_table_business_reporting` | PivotTables for Business Reporting |
+| `17_advanced_pivot_calculations` | Advanced Pivot Calculations |
+| `18_pivot_grouping_analysis` | Pivot Grouping and Analysis |
+| `19_topn_product_analysis` | Top-N Product Analysis |
+| `20_contribution_analysis` | Contribution Analysis |
+
+### 🔹 21–25 | Charts, Dashboards, and Reporting
+
+| Folder | Topic |
+|---|---|
+| `21_business_charts_analysis` | Business Charts and Analysis |
+| `22_monthly_dashboard` | Monthly Dashboard |
+| `23_kpi_conditional_formatting` | KPI Conditional Formatting |
+| `24_executive_summary_sheet` | Executive Summary Sheet |
+| `25_analyst_excel_dashboard` | Analyst Excel Dashboard |
+
+### 🔹 26–30 | Auditing, Automation, and Business Cases
+
+| Folder | Topic |
+|---|---|
+| `26_data_audit_report` | Data Audit Report |
+| `27_excel_automation_named_ranges` | Excel Automation with Named Ranges |
+| `28_stakeholder_ready_excel` | Stakeholder-Ready Excel Outputs |
+| `29_excel_handover_documentation` | Excel Handover Documentation |
+| `30_ecommerce_profit_analysis` | E-Commerce Profit Analysis |
 
 ---
 
-## 📅 Expected Outcome
+## 🧠 Practical Skills Developed
 
-By completing this phase, I aim to strengthen my ability to:
+This roadmap covers Excel workflows relevant to data analysis:
 
-- Translate messy spreadsheets into structured datasets  
-- Build business-relevant calculations instead of formulas in isolation  
-- Verify data accuracy before presenting results  
-- Create Excel outputs that managers can trust and use  
+- **Data preparation:** Organizing raw datasets and cleaning text and date values.
+- **Data quality:** Validating inputs, handling errors, and auditing reports.
+- **Business logic:** Applying formulas and conditional calculations.
+- **Data retrieval:** Matching records and reconciling information across reports.
+- **Performance analysis:** Calculating KPIs, profitability, and contribution.
+- **Reporting:** Summarizing results through PivotTables, charts, and dashboards.
+- **Documentation:** Preparing structured outputs and handover notes.
 
-This phase continues my journey toward becoming a job-ready Data Analyst through consistent, structured daily practice.
+The emphasis is on understanding **when and why to use each Excel technique**, rather than memorizing formulas in isolation.
+
+---
+
+## 💼 Career Relevance
+
+Excel remains useful for data preparation, validation, reconciliation, and exploratory analysis across many business environments.
+
+This practice roadmap supports my preparation for data-focused roles by connecting Excel techniques to realistic analytical tasks. It also builds a foundation for working with SQL, Python, and business intelligence tools.
+
+---
+
+## 📌 Repository Structure
+
+The Excel practice section is organized into 30 numbered folders, progressing from foundational data preparation to reporting, auditing, and an e-commerce profitability case study.
+
+Each folder is intended to keep its related practice work organized and easy to review.
+
+---
+
+## 🚀 Learning Approach
+
+My approach is to build skills progressively through structured practice:
+
+1. Understand the business problem.
+2. Inspect and prepare the dataset.
+3. Apply the relevant Excel techniques.
+4. Validate calculations and results.
+5. Summarize the findings clearly.
+6. Document the work for future reference.
+
+**Goal:** Build practical Excel skills through organized, business-focused exercises and develop a stronger foundation for data analyst interviews and projects.
