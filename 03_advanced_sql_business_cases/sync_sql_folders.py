@@ -8,7 +8,7 @@ from datetime import datetime
 # CONFIGURATION
 REPO = Path(r"D:\Github - Worklog\data-practice-journal")
 TARGET = REPO / "03_advanced_sql_business_cases"
-MODE = "preview"
+MODE = "sync"
 
 DUPLICATE_PREFIXES = tuple(
     f"day{i}_" for i in range(61, 76)
