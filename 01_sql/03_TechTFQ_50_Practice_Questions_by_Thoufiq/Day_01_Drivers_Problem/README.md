@@ -20,14 +20,13 @@ Compare `DRIVER1` and `DRIVER2` to reproduce the expected output while retaining
 
 ## 💻 SQL Solution
 
-```sql
 SELECT
     D1.DRIVER1,
     D2.DRIVER2
 FROM dbo.Day1_Drivers AS D1
 FULL JOIN dbo.Day1_Drivers AS D2
     ON D1.DRIVER1 = D2.DRIVER2;
-```
+``
 
 ## ✅ Query Output
 ![Query Output](screenshots/query_output.png)
