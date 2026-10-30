@@ -18,17 +18,8 @@ Compare `DRIVER1` and `DRIVER2` to reproduce the expected output while retaining
 - Used a **self-join** to compare the table against itself.
 - Applied a **FULL JOIN** to retain matched and unmatched rows from both sides.
 
-## 💻 SQL Solution
+## 💻 SQL Solution & OUTPUT 
 
-SELECT
-    D1.DRIVER1,
-    D2.DRIVER2
-FROM dbo.Day1_Drivers AS D1
-FULL JOIN dbo.Day1_Drivers AS D2
-    ON D1.DRIVER1 = D2.DRIVER2;
-``
-
-## ✅ Query Output
 ![Query Output](screenshots/query_output.png)
 
 ## 🧠 Key Learnings
@@ -44,4 +35,4 @@ FULL JOIN dbo.Day1_Drivers AS D2
 - Git and GitHub
 
 ## 📍 Status
-**Status:** Practised and executed in SSMS.
+Practised and executed in SSMS.
